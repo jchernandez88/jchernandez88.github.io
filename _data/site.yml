@@ -1,0 +1,22 @@
+name: Julio Hernández
+email: me@jchernandez88.com
+description: Apasionado por la tecnología, buscando dejar un granito de arena para cambiar el mundo.
+bio: Apasionado por la tecnología, buscando dejar un granito de arena para cambiar el mundo.
+language: es
+googleAnalytics: UA-27287053-1
+gravatar: 9c592d97b50d615528b3809c21b86036
+social:
+  - title: inbox
+    url: mailto:me@jchernandez88.com
+  - title: twitter
+    url: https://twitter.com/jchernandez88
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+  - title: facebook
+    url: https://facebook.com/jchernandez88
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+logo: "//secure.gravatar.com/avatar/9c592d97b50d615528b3809c21b86036"
+cover: "/assets/img/banner-bg.jpg"
